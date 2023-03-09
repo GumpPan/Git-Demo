@@ -4,3 +4,6 @@ hello git master test
 hello git hot-fix test
 o下一行
 冲突来了
+大家晚上好哦
+网上修改
+线下修改冲突
